@@ -1,6 +1,6 @@
 criaCartao(
     'meio ambiente'
-    '1. O que é o conceito de "Agro Forte e Sustentável"?
+    '1. O que é o conceito de "Agro Forte e Sustentável'?
 'É a produção agrícola que une alta produtividade com a preservação dos recursos naturais. Ela garante alimentos para a população sem esgotar o solo e a água.'
 
 )
