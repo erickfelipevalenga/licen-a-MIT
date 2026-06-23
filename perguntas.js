@@ -1,6 +1,6 @@
 criaCartao(
     'meio ambiente',
-    '1. O que é o conceito de "Agro Forte e Sustentável'?
+    '1. O que é o conceito de "Agro Forte e Sustentável?',
 'É a produção agrícola que une alta produtividade com a preservação dos recursos naturais. Ela garante alimentos para a população sem esgotar o solo e a água.'
 
 )
@@ -9,12 +9,13 @@ criaCartao(
     'meio ambiente',
 'Como a tecnologia ajuda a equilibrar a produção e o meio ambiente?',
 'A tecnologia permite aplicar água, fertilizantes e defensivos na quantidade exata necessária. Isso evita o desperdício, reduz custos e protege o solo de contaminações.'
+)
 
 criaCartao(
 'meio ambiente',
     'O que é a Agricultura de Precisão?',
 'É um sistema de gerenciamento que usa sensores, GPS e drones nas lavouras. Ela mapeia as necessidades específicas de cada pedaço de terra para otimizar os recursos.'
-(
+)
 
 criaCartao(
     'meio ambiente',
